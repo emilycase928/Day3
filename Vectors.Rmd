@@ -47,4 +47,5 @@ my_matrix
 class(my_matrix)
 ```
 
+A cool update
 
